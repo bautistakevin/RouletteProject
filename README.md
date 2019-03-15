@@ -1,2 +1,2 @@
 # RouletteProject
-fun little C# project that allows the player to play roulette
+Fun little C# project that allows the player to play roulette.
